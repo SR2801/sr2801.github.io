@@ -1,2 +1,3 @@
-# sr2801.github.io
-Sandeep Raman's Portfolio
+# Sandeep Raman's Portfolio
+## Computer Science Engineering Undergrad
+## Exploring Computer science
